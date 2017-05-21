@@ -1,4 +1,4 @@
-package application.utils;/*
+package com.zain.util;/*
      Derby - WwdUtils.java - utilitity methods used by WwdEmbedded.java
 
         Licensed to the Apache Software Foundation (ASF) under one
